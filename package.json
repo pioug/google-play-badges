@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "fetch": "node main.js",
+    "inkscape": "/Applications/Inkscape.app/Contents/MacOS/inkscape --export-type='svg' eps/*.eps",
+    "svgo": "svgo -f svg"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1",
+    "svgo": "2.8.0"
+  }
+}
