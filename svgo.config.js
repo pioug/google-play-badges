@@ -1,5 +1,5 @@
 module.exports = {
-  floatPrecision: 2,
+  floatPrecision: 1,
   multipass: true,
   js2svg: {
     indent: 2, // string with spaces or number of spaces. 4 by default
